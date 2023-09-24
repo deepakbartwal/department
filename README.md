@@ -31,8 +31,8 @@ cd department
 pip install -r requirements.txt
 
 # Perform database migrations
-python manage.py makemigrations
-python manage.py migrate
+- python manage.py makemigrations
+- python manage.py migrate
 
 # Create sample data
 open shell using following commands
